@@ -1,2 +1,14 @@
 
 /* Your CSS Code here. */
+.img{
+    width: 50%;
+    height: 50%;
+    opacity: 0.9;
+}
+.dis{
+    position: static;
+    top: auto;
+    width: auto;
+    text-align: center;
+    font-size: medium;
+}
